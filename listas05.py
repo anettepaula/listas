@@ -15,6 +15,14 @@ for i in range(y):
 	b += [eliminar]
 
 print "La lista de palabras a eliminar es:",b
-a+b
+for i in range(
+
 print b
 print a
+
+sust = input("palabra cambiar")
+sust1 = input("nueva")
+a.count(sust)
+for i in range(count):
+num = lista.index(sust)
+	a[num]=sust+1
