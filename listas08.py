@@ -40,10 +40,9 @@ for i in (segunda):
 
 print "Palabras que solo aparecen en las segunda lista:",lista2
 
-todas = primera + segunda
+todas = lista1 + lista2
 
-for i in (todas):
-	if i in (listas2):
-		todas.remove(i)
-print "Todas las palabras:",todas
+print "Todas las palabras",todas
+
+	
 	
